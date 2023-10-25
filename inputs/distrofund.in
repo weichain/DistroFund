@@ -1,4 +1,4 @@
-// The program input for disperse/src/main.leo
+// The program input for distrofund/src/main.leo
 [main]
 sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
 public a: Addresses = Addresses {

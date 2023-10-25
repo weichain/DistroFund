@@ -1,6 +1,6 @@
 import credits.leo;
 
-program disperse.aleo {
+program distrofund.aleo {
     struct Addresses1 {
         address1: address;
     }
@@ -177,7 +177,7 @@ program disperse.aleo {
     }
 }
 
-// program disperse.aleo {
+// program distrofund.aleo {
 //     struct Addresses {
 //         address1: address,
 //         address2: address,

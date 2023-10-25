@@ -1,5 +1,5 @@
 import credits.aleo;
-program disperse.aleo;
+program distrofund.aleo;
 
 
 struct Addresses1:

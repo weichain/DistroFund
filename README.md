@@ -3,6 +3,11 @@
 ## Info
 Two programs that could send up to 15 recipients credits using the transfer_private transition. One of the program would make this possible by submiting two transactions but we will have 0 overhead of records, other program works the following, you send to 2 recipients and there are 13 empty records created and send as well to a placeholder address with 0 microcredits but in one transaction.
 
+## Related Repositories and Docs
+Open Source Frontend Repository that is acting as a client to DistroFund program - <a href= "https://github.com/weichain/aleo-client " target="_blank"> Client App </a> <br>
+DistroFund detailed docs - <a href="https://teoorg.gitbook.io/distrofund/" target="_blank"> Docs </a> <br>
+DistroFund demo - <a href="https://drive.google.com/file/d/1sz_EdLL2I8F7wERYCP6Q7UaxNA-FCwUw/view?usp=sharing" target="_blank"> Video link</a> <br>
+
 ## Diagram
 ![Screenshot](diagram.png)
 

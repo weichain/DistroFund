@@ -1,6 +1,7 @@
 # distrofund.aleo
 
 ## Info
+DistroFund is a Decentralized application that allows a user to send a token or native coins to multiple addresses in a single transaction. 
 Two programs that could send up to 15 recipients credits using the transfer_private transition. One of the program would make this possible by submiting two transactions but we will have 0 overhead of records, other program works the following, you send to 2 recipients and there are 13 empty records created and send as well to a placeholder address with 0 microcredits but in one transaction.
 
 ## Related Repositories and Docs

@@ -1,0 +1,346 @@
+// The program input for distrofund/src/main.leo
+
+[transfer_one]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses1 = Addresses1 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount1 = Amount1 {
+    amount1: 2u64
+};
+
+[transfer_two]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses2 = Addresses2 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount2 = Amount2 {
+    amount1: 2u64,
+    amount2: 1u64
+};
+
+[transfer_three]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses3 = Addresses3 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount3 = Amount3 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64
+};
+
+[transfer_four]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses4 = Addresses4 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount4 = Amount4 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64
+};
+
+[transfer_five]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses5 = Addresses5 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address5: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount5 = Amount5 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64,
+    amount5: 1u64
+};
+
+[transfer_six]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses6 = Addresses6 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address5: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address6: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount6 = Amount6 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64,
+    amount5: 1u64,
+    amount6: 1u64
+};
+
+[transfer_seven]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses7 = Addresses7 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address5: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address6: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address7: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount7 = Amount7 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64,
+    amount5: 1u64,
+    amount6: 1u64,
+    amount7: 1u64
+};
+
+[transfer_eight]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses8 = Addresses8 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address5: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address6: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address7: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address8: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount8 = Amount8 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64,
+    amount5: 1u64,
+    amount6: 1u64,
+    amount7: 1u64,
+    amount8: 1u64
+};
+
+[transfer_nine]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses9 = Addresses9 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address5: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address6: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address7: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address8: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address9: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount9 = Amount9 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64,
+    amount5: 1u64,
+    amount6: 1u64,
+    amount7: 1u64,
+    amount8: 1u64,
+    amount9: 1u64
+};
+
+[transfer_ten]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses10 = Addresses10 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address5: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address6: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address7: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address8: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address9: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address10: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount10 = Amount10 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64,
+    amount5: 1u64,
+    amount6: 2u64,
+    amount7: 1u64,
+    amount8: 1u64,
+    amount9: 1u64,
+    amount10: 1u64
+};
+
+[transfer_eleven]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses11 = Addresses11 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address5: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address6: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address7: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address8: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address9: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address10: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address11: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount11 = Amount11 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64,
+    amount5: 1u64,
+    amount6: 2u64,
+    amount7: 1u64,
+    amount8: 1u64,
+    amount9: 1u64,
+    amount10: 1u64,
+    amount11: 1u64
+};
+
+[transfer_twelve]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses12 = Addresses12 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address5: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address6: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address7: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address8: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address9: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address10: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address11: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address12: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount12 = Amount12 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64,
+    amount5: 1u64,
+    amount6: 2u64,
+    amount7: 1u64,
+    amount8: 1u64,
+    amount9: 1u64,
+    amount10: 1u64,
+    amount11: 1u64,
+    amount12: 1u64
+};
+
+[transfer_thirteen]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses13 = Addresses13 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address5: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address6: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address7: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address8: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address9: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address10: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address11: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address12: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address13: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount13 = Amount13 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64,
+    amount5: 1u64,
+    amount6: 2u64,
+    amount7: 1u64,
+    amount8: 1u64,
+    amount9: 1u64,
+    amount10: 1u64,
+    amount11: 1u64,
+    amount12: 1u64,
+    amount13: 1u64
+};
+
+[transfer_fourteen]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses14 = Addresses14 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address5: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address6: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address7: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address8: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address9: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address10: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address11: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address12: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address13: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address14: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount14 = Amount14 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64,
+    amount5: 1u64,
+    amount6: 2u64,
+    amount7: 1u64,
+    amount8: 1u64,
+    amount9: 1u64,
+    amount10: 1u64,
+    amount11: 1u64,
+    amount12: 1u64,
+    amount13: 1u64,
+    amount14: 1u64
+};
+
+[transfer_fifteen]
+sender: credits = credits {  owner: aleo18c76v3h6aqzvrhk53pt3ylcd85gp84r66x6f9h4wu6ghhkk8qyzsm226g3.private,  microcredits: 45079000u64.private, _nonce: 0group};
+public receiver_address: Addresses15 = Addresses15 {
+    address1: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address2: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address3: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address4: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address5: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address6: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address7: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address8: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address9: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address10: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address11: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address12: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address13: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address14: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9,
+    address15: aleo1dfcshh08exxrljt68t5he8ynwt20hfh9yqudukg2r4n5mpljpqzs9ggxw9
+};
+amount: Amount15 = Amount15 {
+    amount1: 2u64,
+    amount2: 1u64,
+    amount3: 1u64,
+    amount4: 1u64,
+    amount5: 1u64,
+    amount6: 2u64,
+    amount7: 1u64,
+    amount8: 1u64,
+    amount9: 1u64,
+    amount10: 1u64,
+    amount11: 1u64,
+    amount12: 1u64,
+    amount13: 1u64,
+    amount14: 1u64,
+    amount15: 1u64
+};
